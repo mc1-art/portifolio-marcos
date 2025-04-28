@@ -1,14 +1,7 @@
-body{
-    background-color: brown;
-}
-
-h1{
-    color:red;
-    text-align: center;
-    @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
-:root}
-
-body{
-    font-family: ;
-    color: var()
+}@import
+url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+:root {
+--cor-principal: #6E859F;
+--cor-secundaria: #284260;
+--cor-destaque: #C92BFC;
 }
